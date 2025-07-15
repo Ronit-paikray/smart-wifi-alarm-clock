@@ -79,7 +79,7 @@ Ticker
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-wifi-alarm-clock.git
+git clone https://github.com/Ronit-paikray/smart-wifi-alarm-clock.git
 cd smart-wifi-alarm-clock
 ```
 
